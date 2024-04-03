@@ -1,5 +1,7 @@
 # QAOA MaxCut Solver
 
+Given an undirected unweighted graph, the 2-MaxCut problem can be stated as the problem of partitioning the nodes of a graph into two subsets such that the numberof edges between them is as large as possible.
+
 ...
 
 The QAOA algorithm provides an approximate solution to the MaxCut problem. Here are some highlights from our results:
