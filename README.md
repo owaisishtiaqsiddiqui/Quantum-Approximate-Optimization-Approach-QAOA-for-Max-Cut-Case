@@ -2,8 +2,6 @@
 
 ...
 
-## Results
-
 The QAOA algorithm provides an approximate solution to the MaxCut problem. Here are some highlights from our results:
 
 - **Graph**: The algorithm was tested on a graph with 4 nodes and 4 edges.
